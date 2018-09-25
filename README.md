@@ -1,7 +1,7 @@
 # MetSelect-SNAG-List
 SNAG list issues 
 
-# #1 25/09/2018 - N du Plessis
+# #1 (25/09/2018) - N du Plessis
 
 ## **_Condenser Selection Issue_**
 
