@@ -24,6 +24,6 @@ How our current condenser selection tool works is as followed:
  In the top-middle of the image, there are 4 different sectors, **1** being the *Evaporatoring Temperature*, **2** being the *Condensing Temperature*, **3** being the *Refrigerant* and **4** being the *Ambient*, as this is also not an automated process.
  Below this section, the user can select the condenser type.
  Below this is the results from all the condenser at the given conditions.
- THe ones marked in **RED** are not a suitable match.
- THe ones marked in **YELLOW** are within 5% (up or down) of the required value.
- THe ones marked in **GREEN** are a suitable match.
+ THe ones marked in **RED** are not a suitable match
+ THe ones marked in **YELLOW** are within 5% (up or down) of the required value
+ THe ones marked in **GREEN** are a suitable match
