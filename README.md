@@ -13,7 +13,7 @@ It also did not incorporate the altitude correction factor of the capacity, as t
 It also only gave one option to choose from.
 If possible, we would like at least 3 options to select from, thus giving the person selecting a choice, thus preventing just having one choice that may be incorrect.
 
-![alt text](RecamSelector.JPG "Condenser Selection Preview")
+![alt text](RecSelector.JPG "Condenser Selection Preview")
 
 How our current condenser selection tool works is as followed:
  First you select the area you need the condenser to operate in.
