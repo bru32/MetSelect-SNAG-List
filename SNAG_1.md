@@ -9,8 +9,7 @@ It also did not incorporate the altitude correction factor of the capacity, as t
 ![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
 
 It also only gave one option to choose from.
-If possible, we would like at least 3 options to select from, thus giving the person selecting a choice, thus preventing just having one 
-choice that may be incorrect.
+In some instances the software has multiple options, but in this case it shows only one, we would like a minimum of 3 units to be selectable
 
 ![alt text](RecSelector.JPG "Condenser Selection Preview")
 
