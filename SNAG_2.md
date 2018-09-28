@@ -3,14 +3,15 @@
 
 ##  #2 **_Condenser Selection Search only delivered single unit_**
 
-*Issue:* Stating that a condenser is required with 69.2kW of THR, the tool selected a single coil with less capacity than the required 
+**Issue:** Stating that a condenser is required with 69.2kW of THR, the tool selected a single coil with less capacity than the required 
 capacity.
 
 ![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
 
-*Requierment:* In some instances the software has multiple options, but in this case it shows only one, we would like a minimum of 
+**Requierment:** In some instances the software has multiple options, but in this case it shows only one, we would like a minimum of 
 3 units to be selectable
 
 
-*Example:* Currently used by MTC as an example
+**Example:** Currently used by MTC, as an example
+
 ![alt text](RecSelector.JPG "Condenser Selection Preview")
