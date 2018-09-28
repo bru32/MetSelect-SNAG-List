@@ -9,7 +9,7 @@ capacity.
 ![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
 
 **Requierment:** In some instances the software has multiple options, but in this case it shows only one, we would like a minimum of 
-3 units to be selectable
+3 units, per range, to be selectable
 
 
 **Example:** Currently used by MTC, as an example
