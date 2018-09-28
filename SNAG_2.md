@@ -10,3 +10,7 @@ capacity.
 
 *Requierment:* In some instances the software has multiple options, but in this case it shows only one, we would like a minimum of 
 3 units to be selectable
+
+
+*Example:* Currently used by MTC as an example
+![alt text](RecSelector.JPG "Condenser Selection Preview")
