@@ -6,8 +6,12 @@
 **Issue:** Stating that a condenser is required with 69.2kW of THR
 Coil with less capacity wasa supplied.
 
+**HAC**
+
 ![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
 
+**VAC**
 
+![alt text](UndersizedCondenserVAC.JPG "Undersized Condenser Selection")
 
 
