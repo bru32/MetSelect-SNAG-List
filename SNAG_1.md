@@ -14,4 +14,7 @@ Coil with less capacity wasa supplied.
 
 ![alt text](UndersizedCondenserVAC.JPG "Undersized Condenser Selection")
 
+**V-Coil**
+
+![alt text](UndersizedCondenserVC.JPG "Undersized Condenser Selection")
 
