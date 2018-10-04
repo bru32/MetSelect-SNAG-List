@@ -8,3 +8,4 @@ SNAG list issues
 | 3 |[Condenser Selection Search doesn't take altitude into consideration](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_3.md)|  To be Started |
 | 4 |[Wrong Condenser name displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_4.md)|  To be Started |
 | 5 |[Capacity discrepancy between refrigerants](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_5.md)|  To be Started |
+| 6 |[Condenser name displayed irregularity](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_6.md)|  To be Started |
