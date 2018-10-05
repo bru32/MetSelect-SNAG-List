@@ -1,7 +1,7 @@
 # Created : 05/10/2018 / Author - N du Plessis
 #### Last Updated : 05/10/2018 / Author - N du Plessis
 
-##  #8 **_No model differentiation in model selection bar_**
+##  #8 **_No model differentiation in unit cooler model selection bar_**
 
 **Issue:** No model differentiation in model selection bar, only seen when a unit is selected as per file it was collected in.
 
