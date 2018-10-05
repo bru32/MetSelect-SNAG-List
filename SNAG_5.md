@@ -1,7 +1,7 @@
 # Created : 04/10/2018 / Author - N du Plessis
 #### Last Updated : 04/10/2018 / Author - N du Plessis
 
-##  #5 **_Capacity discrepancy between refrigerants_**
+##  #5 **_Condenser Capacity discrepancy between refrigerants_**
 
 **Issue:** Condenser capacity lower on R407F compared to R404A.
 
