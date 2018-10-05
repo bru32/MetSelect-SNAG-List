@@ -1,9 +1,9 @@
 # Created : 05/10/2018 / Author - N du Plessis
 #### Last Updated : 05/10/2018 / Author - N du Plessis
 
-##  #10 **_Unit Cooler Selection Temp Diff Symbol to be changed_**
+##  #10 **_Temp Diff Symbol to be changed_**
 
-**Issue:** Unit Cooler Selection Temp Diff Symbol **C** for Celcius.
+**Issue:** Unit Cooler / Condenser Selection Temp Diff Symbol **C** for Celcius.
 
 ![alt text](EvapForm.JPG "Unit Cooler Form Symbol Change")
 
