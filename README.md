@@ -11,7 +11,7 @@ SNAG list issues
 | 6 |[Condenser name displayed irregularity](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_6.md)|  To be Started | 04/10/2018 |
 | 7 |[Different Capacity for same condenser unit](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_7.md)|  To be Started | 04/10/2018 |
 | 8 |[No model differentiation in unit cooler model selection bar](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_8.md)|  To be Started | 05/10/2018 |
-
-
+| 9 |[Unit Cooler Selection Search only delivered single unit](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_9.md)|  To be Started | 05/10/2018 |
+| 10 |[Unit Cooler Selection Temp Diff Symbol to be changed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_10.md)|  To be Started | 05/10/2018 |
 
 
