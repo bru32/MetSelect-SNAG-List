@@ -10,3 +10,8 @@ SNAG list issues
 | 5 |[Capacity discrepancy between refrigerants](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_5.md)|  To be Started | 04/10/2018 |
 | 6 |[Condenser name displayed irregularity](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_6.md)|  To be Started | 04/10/2018 |
 | 7 |[Different Capacity for same unit](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_7.md)|  To be Started | 04/10/2018 |
+| 8 |[No model differentiation in model selection bar](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_8.md)|  To be Started | 05/10/2018 |
+
+
+
+
