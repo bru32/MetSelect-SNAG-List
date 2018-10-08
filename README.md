@@ -13,5 +13,8 @@ SNAG list issues
 | 8 |[No model differentiation in unit cooler model selection bar](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_8.md)|  To be Started | 05/10/2018 |
 | 9 |[Unit Cooler Selection Search only delivered single unit](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_9.md)|  To be Started | 05/10/2018 |
 | 10 |[Temp Diff Symbol to be changed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_10.md)|  To be Started | 05/10/2018 |
+| 11 |[Temperature indication on Unit Cooler Form](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_11.md)|  To be Started | 05/10/2018 |
+| 12 |[Selection for electric defrost or wide fin spacing on unit coolers](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_12.md)|  To be Started | 08/10/2018 |
+
 
 
