@@ -1,5 +1,5 @@
 # Created : 04/10/2018 / Author - N du Plessis
-#### Last Updated : 04/10/2018 / Author - N du Plessis
+#### Last Updated : 08/10/2018 / Author - N du Plessis
 
 ##  #6 **_Condenser name displayed irregularity_**
 
@@ -12,3 +12,7 @@
 **Selection 2**
 
 ![alt text](CondenserName1.JPG "Second selection on given THR")
+
+**Selection 3** Multiple make selection supplied (VAC and VC)
+
+![alt text](CondenserSelect.JPG "Third selection")
