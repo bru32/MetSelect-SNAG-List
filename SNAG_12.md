@@ -3,8 +3,8 @@
 
 ##  #12 **_Selection for electric defrost or wide fin spacing on unit coolers_**
 
-**Issue:** Selection displays all the options, no selection option between an air defrost (H), electric defrost (L), 
-           wide fin spacing with (-4L) or without electric elements (-4H).
+**Issue:** Selection displays all the options, no selection option between an air defrost (**H**), electric defrost (**L**), 
+           wide fin spacing with (**-4L**) or without electric elements (**-4H**).
 
 ![alt text](EvapAll.JPG "Unit Cooler Selection Form")
 
