@@ -7,7 +7,7 @@
 
 ![alt text](BlizzardSelect.JPG "CP Selection issue")
 
-**Result:** Look at the second third and forth symbol in the product nomeclature, as that indicates the application.
+**Result:** Look at the third and forth symbol in the product nomeclature, as that indicates the application.
 ##### MT - Medium Temperature (Holding Only)
 ##### HT - High Ambient Medium Temperature (Holding and Pull Down applications for higher ambients)
 ##### LT - Low Temperature (Holding Only)
