@@ -11,5 +11,8 @@
 ##### BZ - Inland Unit
 ##### BC - Coastal Unit
 
-Give the option to select whether the user would like to select an inland or coastal unit, default being inland
-On the Blizzard units, as it is the only unit with this option
+Give the option to the user whether they would like to select an inland or coastal unit, default being inland
+
+Option only suitable for the Blizzard units, as it is the only unit with this option
+
+Coastal to be used up to an altitude of 250m above sea level
