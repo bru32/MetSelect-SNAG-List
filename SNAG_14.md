@@ -8,6 +8,6 @@
 ![alt text](BlizzardSelect.JPG "CP Selection issue")
 
 **Result:** Look at the second last symbol in the product nomeclature, as that indicates the refrigerant.
-#### Z = R404A / R507A / R407C
-#### Y = R134a
-#### F = R407F
+##### Z = R404A / R507A / R407C
+##### Y = R134a
+##### F = R407F
