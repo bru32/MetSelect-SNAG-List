@@ -20,7 +20,7 @@ SNAG list issues
 | 15 |[Compressor Product Selection - Mixed application models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_15.md)|  To be Started | 09/10/2018 |
 | 16 |[Compressor Product Selection Condensing selection](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_16.md)|  To be Started | 09/10/2018 |
 | 17 |[Compressor Product Selection - Coastal units on Blizzards](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_17.md)|  To be Started | 09/10/2018 |
-
+| 18 |[Compressor Product Selection - Select between compressor types](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_18.md)|  To be Started | 09/10/2018 |
 
 
 
