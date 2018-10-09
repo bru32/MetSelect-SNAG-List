@@ -12,3 +12,5 @@
 ##### HT - High Ambient Medium Temperature (Holding and Pull Down applications for higher ambients)
 ##### LT - Low Temperature (Holding Only)
 ##### HL - High Ambient Medium Temperature (Holding and Pull Down applications for higher ambients)
+
+Supply the user with the option to select an application (from the Spec. Kind, maybe also have a drop down section)
