@@ -12,3 +12,4 @@
 ##### BC - Coastal Unit
 
 Give the option to select whether the user would like to select an inland or coastal unit, default being inland
+On the Blizzard units, as it is the only unit with this option
