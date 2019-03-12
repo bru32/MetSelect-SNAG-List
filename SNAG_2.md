@@ -6,6 +6,10 @@
 **Issue:** Stating that a condenser is required with 69.2kW of THR, the tool selected a single coil with less capacity than the required 
 capacity.
 
+###Update
+Fixed with snag item 1
+
+
 ![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
 
 **Requierment:** In some instances the software has multiple options, but in this case it shows only one, we would like a minimum of 
