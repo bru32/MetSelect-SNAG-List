@@ -7,7 +7,7 @@
 Coil with less capacity wasa supplied.
 
 
-## Fix.
+## Fixed by Bruce Wernick 11 March 2019.
 
 The search has a tolerance of 1% under and 15% over the target.
 
