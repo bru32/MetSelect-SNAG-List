@@ -6,6 +6,19 @@
 **Issue:** Stating that a condenser is required with 69.2kW of THR
 Coil with less capacity wasa supplied.
 
+
+## Fix.
+
+The search has a tolerance of 1% under and 15% over the target.
+
+If no models are within tolerance, the program returns the closest match.
+
+The problem is that the closest match might be under the target duty.
+
+I have fixed the problem by creating a list of models around the target.
+
+
+
 **HAC**
 
 ![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
