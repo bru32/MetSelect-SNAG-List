@@ -5,6 +5,12 @@
 
 **Issue:** All the different compressor options given in the search.
 
+### Fixed.
+
+Compressor type combo added to Cond Unit criteria form.
+...
+
+
 ![alt text](BlizzardSelect.JPG "CP Selection issue")
 
 **Result:** Give the option to select between Reciprocating Compressor, Scroll Compressor or Semi-Hermetic Compressor
