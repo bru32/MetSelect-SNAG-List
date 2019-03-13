@@ -5,6 +5,12 @@
 
 **Issue:** Selection of units deliver units for both inland units as well as coastal units.
 
+
+### Fixed
+
+Altitude now used in CU selection.
+
+
 ![alt text](BlizzardSelect.JPG "CP Selection issue")
 
 **Result:** Look at the second symbol in the product nomeclature, as that indicates the application.
