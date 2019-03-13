@@ -5,5 +5,12 @@
 
 **Issue:** Multiple condenser models selected, only a single model supplied as an option.
 
+
+### Fixed...
+
+Same as item 1.
+
+...
+
 ![alt text](CondenserSelect.JPG "Condenser Selection issue")
 
