@@ -5,6 +5,13 @@
 
 **Issue:** Different capacities supplied for the same V-Coil unit.
 
+
+### Fixed by Bruce Wernick 12 March 2019
+
+This is the same as the previous snag item.
+
+
+
 **Selection 1**
 
 ![alt text](CondenserName.JPG "First selection on given THR")
