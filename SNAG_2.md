@@ -7,7 +7,9 @@
 capacity.
 
 ###Update
-Fixed with snag item 1
+Fixed with snag item 1.
+
+Note: the same search algorithm is used for all types so the fix applies to all package types.
 
 
 ![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
