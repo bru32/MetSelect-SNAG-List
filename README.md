@@ -17,10 +17,10 @@ SNAG list issues
 | 12 |[Selection for electric defrost or wide fin spacing on unit coolers](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_12.md)| Problem! | 11/03/2019 |
 | 13 |[Multiple Condenser Selection delivers single result](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_13.md)| Done | 11/03/2019 |
 | 14 |[Compressor Product Selection - Rifrigerant Mixed Models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_14.md)| Busy | 11/03/2019 |
-| 15 |[Compressor Product Selection - Mixed application models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_15.md)| Busy | 11/03/2019 |
-| 16 |[Compressor Product Selection Condensing selection](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_16.md)| Problem! | 11/03/2019 |
-| 17 |[Compressor Product Selection - Coastal units on Blizzards](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_17.md)|  Problem | 11/03/2019 |
-| 18 |[Compressor Product Selection - Select between compressor types](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_18.md)| Problen | 11/03/2019 |
+| 15 |[Compressor Product Selection - Mixed application models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_15.md)| Done | 13/03/2019 |
+| 16 |[Compressor Product Selection Condensing selection](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_16.md)| Done | 13/03/2019 |
+| 17 |[Compressor Product Selection - Coastal units on Blizzards](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_17.md)|  Done | 13/03/2019 |
+| 18 |[Compressor Product Selection - Select between compressor types](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_18.md)| Done | 13/03/2019 |
 
 
 
