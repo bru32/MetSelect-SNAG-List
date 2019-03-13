@@ -5,6 +5,11 @@
 
 **Issue:** Unit Cooler / Condenser Selection Temp Diff Symbol **C** for Celcius.
 
+
+### Done.
+This is not really an error but a preference.
+I have changed delta temp units to K.
+
 ![alt text](EvapForm.JPG "Unit Cooler Form Symbol Change")
 
  **Result:** Unit Cooler Selection Temp Diff Symbol to be **K** for Kelvin
