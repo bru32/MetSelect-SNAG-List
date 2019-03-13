@@ -5,6 +5,12 @@
 
 **Issue:** Selection of units deliver units of every refrigerant.
 
+
+### Fixed
+
+
+
+
 ![alt text](BlizzardSelect.JPG "CP Selection issue")
 
 **Result:** Look at the second last symbol in the product nomeclature, as that indicates the refrigerant.
