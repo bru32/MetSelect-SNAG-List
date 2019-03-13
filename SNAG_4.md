@@ -5,5 +5,11 @@
 
 **Issue:** HAC condenser selected, name stated is V-Coil.
 
+### Fixed by Bruce Wernick 12 March 2019
+
+The problem was that the screen was not refreshed after the search.
+This is now corrected.
+
+
 ![alt text](CondenserCoastal.JPG "Wrong Condenser Name Supplied")
 
