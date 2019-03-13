@@ -14,3 +14,7 @@
 ##### HL - High Ambient Medium Temperature (Holding and Pull Down applications for higher ambients)
 
 Supply the user with the option to select an application (from the Spec. Kind, maybe have it as a drop down section)
+
+
+### Fix made.
+I have implemeted the app type based on the temperature.
