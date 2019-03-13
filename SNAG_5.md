@@ -7,6 +7,13 @@
 
 **R407F - Recam Catalogue HAC5035 at sea level _69.07kW THR_**
 
+
+### Status: Waiting for information from Metraclark
+In the mean time, I have added provisional factors for all refrigerants.
+The logic is working.
+I just need to update the condenser refrigerant factors.
+
+
 ![alt text](CondenserRefrigerant.JPG "THR Capacity of R407F")
 
 **R404A  - Recam Catalogue HAC5035 at sea level _68.67kW THR_**
