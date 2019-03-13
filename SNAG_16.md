@@ -17,3 +17,7 @@ Supply the user with the option to select an application (from the Spec. Kind, m
 
 **Side Note for your information:** Some units will be able to run at lower dT values, but we keep the capacities at a fixed value to meet
 the catalogues criteria
+
+
+###Note by Bruce Wernick 13 March 2019. This item needs a bit more thought.
+
