@@ -5,6 +5,14 @@
 
 **Issue:** Unit Cooler Temperature display as db / wb will confuse the salesmen.
 
+### This is not an error
+
+The user can enter just dry bulb and the program will automatically calculate the correct wet bulb.
+
+The reason the db/wb is needed is for the case where the user NEEDS to specify the full air state.
+
+
+
 ![alt text](EvapForm.JPG "Unit Cooler Selection Form")
 
 ![alt text](EvapConditions.JPG "Unit Cooler Selection Form")
