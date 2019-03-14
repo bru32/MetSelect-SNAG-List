@@ -18,16 +18,3 @@ The problem is that the closest match might be under the target duty.
 I have fixed the problem by creating a list of models around the target.
 
 
-
-**HAC**
-
-![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
-
-**VAC**
-
-![alt text](UndersizedCondenserVAC.JPG "Undersized Condenser Selection")
-
-**V-Coil**
-
-![alt text](UndersizedCondenserVC.JPG "Undersized Condenser Selection")
-
