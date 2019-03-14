@@ -5,7 +5,6 @@
 
 **Issue:** Selection of units deliver units of different applications.
 
-![alt text](BlizzardSelect.JPG "CP Selection issue")
 
 **Result:** Look at the third and forth symbol in the product nomeclature, as that indicates the application.
 ##### MT - Medium Temperature (Holding Only)
