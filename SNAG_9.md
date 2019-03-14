@@ -9,7 +9,6 @@
 The problem is the same as item 1
 
 
-![alt text](EvapSingle.JPG "Single Unit Cooler Selection")
 
 **Requierment:** In some instances the software has multiple options, but in this case it shows only one, we would like a minimum of 
 3 units, per range, to be selectable
@@ -17,4 +16,3 @@ The problem is the same as item 1
 
 **Example:** Currently used by MTC, as an example
 
-![alt text](EvapMTC.JPG "Unit Cooler Selection Preview")
