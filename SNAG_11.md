@@ -13,9 +13,5 @@ The reason the db/wb is needed is for the case where the user NEEDS to specify t
 
 
 
-![alt text](EvapForm.JPG "Unit Cooler Selection Form")
-
-![alt text](EvapConditions.JPG "Unit Cooler Selection Form")
-
  **Result:** Unit Cooler Selection Temperature to be just db temperature (room temp), no need to go into 
  the unit cooler air state conditions, **_if possible_**
