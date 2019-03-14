@@ -14,12 +14,5 @@ The logic is working.
 I just need to update the condenser refrigerant factors.
 
 
-![alt text](CondenserRefrigerant.JPG "THR Capacity of R407F")
-
-**R404A  - Recam Catalogue HAC5035 at sea level _68.67kW THR_**
-
-![alt text](CondenserCoastal.JPG "THR Capacity of R404A")
-
-**Result Example:** R407F capacity to be higher than R404A
 
 **Catalogue:** Recam Condenser Catalogue Refrigeration Capacity Values
