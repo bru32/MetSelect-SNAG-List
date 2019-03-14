@@ -13,6 +13,4 @@ Now the full model name is shown in the list.
 
 
 
-![alt text](EvapAll.JPG "No differentiation between models")
-
 **Result Example:** Units to be stated as example : SU322-4L or SL210H
