@@ -14,7 +14,7 @@ SNAG list issues
 | 9 |[Unit Cooler Selection Search only delivered single unit](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_9.md)| Done | 11/03/2019 |
 | 10 |[Temp Diff Symbol to be changed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_10.md)| Done | 11/03/2019 |
 | 11 |[Temperature indication on Unit Cooler Form](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_11.md)| Done | 11/03/2019 |
-| 12 |[Selection for electric defrost or wide fin spacing on unit coolers](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_12.md)| Problem! | 11/03/2019 |
+| 12 |[Selection for electric defrost or wide fin spacing on unit coolers](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_12.md)| Done | 14/03/2019 |
 | 13 |[Multiple Condenser Selection delivers single result](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_13.md)| Done | 11/03/2019 |
 | 14 |[Compressor Product Selection - Rifrigerant Mixed Models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_14.md)| Done | 13/03/2019 |
 | 15 |[Compressor Product Selection - Mixed application models displayed](https://github.com/NicDup/MetSelect-SNAG-List/blob/master/SNAG_15.md)| Done | 13/03/2019 |
