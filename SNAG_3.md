@@ -11,8 +11,4 @@ The altitude correction was left out of the selection.
 This is now corrected.
 
 
-![alt text](UndersizedCondenser.JPG "Undersized Condenser Selection")
-
-**Result Example:** Correction factor for the above mentioned unit would be 74.47kW @ sea level
-
 **Catalogue:** Recam Condenser Catalogue Altitude Correction factors
