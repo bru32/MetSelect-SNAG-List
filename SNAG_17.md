@@ -11,8 +11,6 @@
 Altitude now used in CU selection.
 
 
-![alt text](BlizzardSelect.JPG "CP Selection issue")
-
 **Result:** Look at the second symbol in the product nomeclature, as that indicates the application.
 ##### BZ - Inland Unit
 ##### BC - Coastal Unit
