@@ -20,3 +20,6 @@ Give the option to the user whether they would like to select an inland or coast
 Option only suitable for the Blizzard units, as it is the only unit with this option
 
 Coastal to be used up to an altitude of 250m above sea level
+
+
+[Next >>](https://github.com/bru32/MetSelect-SNAG-List/blob/master/SNAG_18.md)
