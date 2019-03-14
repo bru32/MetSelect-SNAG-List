@@ -11,11 +11,3 @@
 This is the same as the previous snag item.
 
 
-
-**Selection 1**
-
-![alt text](CondenserName.JPG "First selection on given THR")
-
-**Selection 2**
-
-![alt text](CondenserName1.JPG "Second selection on given THR")
