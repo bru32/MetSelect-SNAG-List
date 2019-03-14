@@ -12,7 +12,5 @@
 
            
 
-![alt text](EvapAll.JPG "Unit Cooler Selection Form")
-
  **Result:** Unit Cooler Selection Template to have radio buttorns with the 4 options (**H**), (**L**), (**-4L**) & (**-4H**).
              The unit being selected should match the criteria selected, default being (**H**)
