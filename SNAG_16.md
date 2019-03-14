@@ -5,7 +5,6 @@
 
 **Issue:** Units are designed on a fixed selection as per the MTC catalogue.
 
-![alt text](BlizzardSelect.JPG "CP Selection issue")
 
 **Result:** Rather work on an ambient value, add the condensing dT to that value to determine the condensing temperature.
 ##### MT - Medium Temperature = 15K
@@ -17,7 +16,4 @@ Supply the user with the option to select an application (from the Spec. Kind, m
 
 **Side Note for your information:** Some units will be able to run at lower dT values, but we keep the capacities at a fixed value to meet
 the catalogues criteria
-
-
-###Note by Bruce Wernick 13 March 2019. This item needs a bit more thought.
 
