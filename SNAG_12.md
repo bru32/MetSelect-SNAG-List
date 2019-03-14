@@ -6,11 +6,7 @@
 **Issue:** Selection displays all the options, no selection option between an air defrost (**H**), electric defrost (**L**), 
            wide fin spacing with (**-4L**) or without electric elements (**-4H**).
            
-### This item is a problem.
-
-I'm not sure I have enough info in the data file to implement.
-
-I will have to check...
+### OK, I have managed to get this item done.
 
 ...
 
