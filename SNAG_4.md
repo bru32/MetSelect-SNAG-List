@@ -11,5 +11,3 @@ The problem was that the screen was not refreshed after the search.
 This is now corrected.
 
 
-![alt text](CondenserCoastal.JPG "Wrong Condenser Name Supplied")
-
