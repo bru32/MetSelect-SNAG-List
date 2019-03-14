@@ -19,4 +19,4 @@ I have fixed the problem by creating a list of models around the target.
 
 
 
-Next>>(https://github.com/bru32/MetSelect-SNAG-List/blob/master/SNAG_2.md)
+[Next >>](https://github.com/bru32/MetSelect-SNAG-List/blob/master/SNAG_2.md)
