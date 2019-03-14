@@ -4,7 +4,7 @@ SNAG list issues
 | # | Issue | Progress | Date Updated |
 | --- |  ---  | ------ | ------ |
 
-| 1 |[Condenser Selection Search Below Required Value](https://github.com/bru32/MetSelect-SNAG-List/master/SNAG_1.md)| Done | 11/03/2019 |
+| 1 |[Condenser Selection Search Below Required Value](https://github.com/bru32/MetSelect-SNAG-List/blob/master/SNAG_1.md)| Done | 11/03/2019 |
 
 | 2 |[Condenser Selection Search only delivered a single result](https://github.com/bru32/MetSelect-SNAG-List/master/SNAG_2.md)| Done | 11/03/2019 |
 
